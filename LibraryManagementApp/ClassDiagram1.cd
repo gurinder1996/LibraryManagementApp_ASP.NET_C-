@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManagementApp.BookMaster">
+    <Position X="11.5" Y="12.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CBAAMgQgAAAEAgAAAAAEECAQAAAAABAABAAAAAKgAAA=</HashCode>
+      <FileName>BookMaster.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.Books">
+    <Position X="14" Y="12.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAgAAAAQAAAAAAgAAAACAAAAAAAIAAAg=</HashCode>
+      <FileName>Books.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.ChangePassword">
+    <Position X="19" Y="17.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAiAAAAAAAAIAAAAAAAAAAAABAAAAAAAAIIAAA=</HashCode>
+      <FileName>ChangePassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.DAL">
+    <Position X="8.25" Y="15.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAABAgAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.DataResponse">
+    <Position X="6.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAQAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp._Default">
+    <Position X="9.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.IssueBook">
+    <Position X="17.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAoAAAAAgAAAAAAAAAQAAIQABBAAAAAAAIAAAA=</HashCode>
+      <FileName>IssueBook.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.IssueBookList">
+    <Position X="19.25" Y="13.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAgAAAAQAAAAAAgAAAACAAAAAAAIAAAg=</HashCode>
+      <FileName>IssueBookList.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.Login">
+    <Position X="21" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAJBAAA=</HashCode>
+      <FileName>Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.Site1">
+    <Position X="6.5" Y="17.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAABIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site1.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.User">
+    <Position X="13.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAACAgAAAAAAAAAQAAAAAJAgAAAAAAIAAAQ=</HashCode>
+      <FileName>User.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementApp.UserList">
+    <Position X="15" Y="19.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAgAAAAQAAAAAAgAAAACAAAAAAAIAAAg=</HashCode>
+      <FileName>UserList.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
